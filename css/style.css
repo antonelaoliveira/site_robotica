@@ -28,8 +28,26 @@ a:active{
     padding: 0px 4px;
     border-radius: 4px;
 }
-}
+
 .foto-robo img{
+    width: 340px;
+    height: 340px;
+    border-radius: 16px;
+}
+
+.foto-ur3e img{
+    width: 340px;
+    height: 340px;
+    border-radius: 16px;
+} 
+
+.video-robo iframe{
+    width: 340px;
+    height: 340px;
+    border-radius: 16px;
+} 
+
+.mapa-robo iframe{
     width: 340px;
     height: 340px;
     border-radius: 16px;
